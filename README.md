@@ -13,7 +13,3 @@ You can also run it from the command line:
 ```
 mvn spring-boot:run
 ```
-
-## Sources
-* https://spring.io/guides/gs/messaging-stomp-websocket/
-* https://www.callicoder.com/spring-boot-websocket-chat-example/
